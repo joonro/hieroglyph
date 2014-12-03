@@ -10,7 +10,7 @@
 .. slide:: Getting Started with Hieroglyph
    :level: 1
 
-   .. figure:: /_static/hieroglyphs.jpg
+   .. figure:: _static/hieroglyphs.jpg
       :class: fill
 
       CC BY-SA http://www.flickr.com/photos/tamburix/2900909093/
@@ -280,7 +280,7 @@ Displaying Images
 
    ::
 
-     .. figure:: /_static/hieroglyphs.jpg
+     .. figure:: _static/hieroglyphs.jpg
         :class: fill
 
         CC BY-SA http://www.flickr.com/photos/tamburix/2900909093/
@@ -293,7 +293,7 @@ Hieroglyph also includes some support for showing an image as the full
 slide using the :rst:dir:`figure` directive. For example, the
 Hieroglyph introductory slide deck uses the following markup::
 
-  .. figure:: /_static/hieroglyphs.jpg
+  .. figure:: _static/hieroglyphs.jpg
      :class: fill
 
      CC BY-SA http://www.flickr.com/photos/tamburix/2900909093/
@@ -428,14 +428,14 @@ Viewing Your Slides
    Hieroglyph creates a directory containing the files for your
    presentation
 
-   .. image:: /_static/slide_show.png
+   .. image:: _static/slide_show.png
 
    * Press <space bar> to advance the slides, or <- or ->
 
 When you open the slide HTML in your browser, it looks something like
 this:
 
-.. image:: /_static/slide_show.png
+.. image:: _static/slide_show.png
 
 You can use the space bar to advance to the next slide, or the left
 and right arrows to move back and forward, respectively.
@@ -443,7 +443,7 @@ and right arrows to move back and forward, respectively.
 .. slide:: The Slide Table
    :level: 2
 
-   .. image:: /_static/slide_table.png
+   .. image:: _static/slide_table.png
 
    * Press ``t`` to display the Slide Table, a zoomed out view of your
      slides
@@ -453,7 +453,7 @@ something, or jump ahead or back. You can use the *Slide Table* view
 for this. Just press ``t`` in the browser and the slides will shrink
 down.
 
-.. image:: /_static/slide_table.png
+.. image:: _static/slide_table.png
 
 You can click on a slide to jump there, or press ``t`` again to exit
 the slide table.
@@ -464,7 +464,7 @@ Presenter Console
 .. slide:: Presenter Console
    :level: 2
 
-   .. image:: /_static/slide_console.png
+   .. image:: _static/slide_console.png
 
    * Press ``c`` to open the Presenter's Console
    * Moving the slides in either window will update the other.
@@ -474,7 +474,7 @@ what's coming next. Hieroglyph includes a *Presenter's Console* for
 this purpose. Just press ``c`` when viewing the slides and the console
 will open in a new window.
 
-.. image:: /_static/slide_console.png
+.. image:: _static/slide_console.png
 
 Moving the slides backward or forward in either window will keep the
 other in sync.
